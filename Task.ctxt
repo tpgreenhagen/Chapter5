@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=number\ name
+comment0.target=Task(double,\ java.lang.String)
+comment1.params=obj
+comment1.target=int\ compareTo(java.lang.Object)
+comment2.params=
+comment2.target=double\ getPriority()
+comment3.params=p
+comment3.target=void\ setPriority(double)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
