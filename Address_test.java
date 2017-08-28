@@ -42,8 +42,8 @@ public class Address_test
     Task job10 = new Task(3, "Study for anything");
 
 
-//     System.out.print(home.compareTo(home1)); //neg result
-//     System.out.print(home1.compareTo(home)); //pos result
+     System.out.println(home.compareTo(home1)); //neg result
+     System.out.println(home1.compareTo(home)); //pos result
 
 //Make address list
      Address[] places = {home,home1,home2, home3, home4, home5, home6, home7, home8, home9};
